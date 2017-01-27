@@ -4,6 +4,7 @@ body {
     color: #6d6d6d;
     font-size: 17px;
     line-height: 27px;
+    background-color: white;
 }
 .stopwatch {
 	float: right;
