@@ -6,6 +6,10 @@ body {
     line-height: 27px;
     background-color: white;
 }
+#footer {
+	padding-left: 4px;
+	padding-right: 4px;
+}
 .stopwatch {
 	float: right;
 	font-size: 1.5em;
