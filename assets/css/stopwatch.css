@@ -1,0 +1,17 @@
+body {
+	font-family: "Helvetica Neue",Arial,sans-serif;
+    font-weight: 300;
+    color: #6d6d6d;
+    font-size: 17px;
+    line-height: 27px;
+}
+.stopwatch {
+	float: right;
+	font-size: 1.5em;
+	display: inline-block;
+}
+#text {
+	display: inline-block;
+	float: left;
+	font-size: 1.5em;
+}
